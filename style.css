@@ -1,0 +1,28 @@
+#divFrutas > img {
+    cursor: pointer;
+}
+
+.img-maca {
+    width: 60px;
+}
+
+.img-morango {
+    width: 40px;
+}
+
+.img-laranja {
+    width: 60px;
+}
+
+.img-uva {
+    width: 80px;
+}
+
+.img-kiwi {
+    width: 60px;
+}
+
+.altura {
+    height: 100px;
+}
+
